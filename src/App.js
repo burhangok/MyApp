@@ -13,7 +13,7 @@ function App() {
           <Breadcrumb>
             <BreadcrumbItem>
               <a href="#">
-                Dashboard
+                Ana sayfa
               </a>
             </BreadcrumbItem>
             <BreadcrumbItem active>
